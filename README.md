@@ -1,2 +1,8 @@
 # -Airline-Data-Management-Using-Power-BI
- The airline industry operates with numerous complexities, requiring effective data management and insights into flight schedules, passenger details, and ticketing systems. This project aims to analyze airline operations for improving efficiency and customer satisfaction.
+
+  This project aims to analyze and visualize airline data for operational insights, passenger management, and ticket booking trends using Power BI.
+
+# Repository Structure
+
+Data : https://github.com/Ipsita-9861/-Airline-Data-Management-Using-Power-BI/blob/main/Ticket_Information%20-%20Google%20Sheets.pdf <br />
+Project Details: https://github.com/Ipsita-9861/-Airline-Data-Management-Using-Power-BI/blob/main/Problem%20statement.pdf
